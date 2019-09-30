@@ -1,1 +1,1 @@
-TP1
+Aclaración: para que los Notebooks funcionen, es necesario mover el archivo train.csv a la carpeta principal del Repositorio.
